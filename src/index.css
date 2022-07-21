@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App{
+  background-color: azure;
+  min-height: 100vh;
+}
+/* .nav{
+  min-height: 10px;
+  background-color: antiquewhite;
+  color: rgb(76, 71, 71);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.links{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+} */
+.btn{
+  @apply w-1/5 px-2 py-2 my-3 bg-gray-300 rounded;
+}
+.input-box{
+  @apply px-2 py-2 my-5 border-2 border-gray-300;
+}

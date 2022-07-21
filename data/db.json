@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Tectonic Komplex",
+      "description": "The world is waiting. Make your move.",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/cid_a_420_athena_commando_f_neongraffitilava/icon.png"
+    },
+    {
+      "id": 2,
+      "name": "Sulfuric Street Shine",
+      "description": "This way to the hottest drop around.",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/pickaxe_id_807_neongraffitilavafemale/icon.png"
+    },
+    {
+      "id": 3,
+      "name": "Fiery Jam",
+      "description": "Steamin' hot style.",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/bid_a_017_neongraffitilava/icon.png"
+    },
+    {
+      "id": 4,
+      "name": "Fiery Flow",
+      "description": "Show your style.",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/wrap_477_neongraffitilava/icon.png"
+    },
+    {
+      "id": 5,
+      "name": "Ali-Tech Plasmawings",
+      "description": "The world is waiting. Make your move.",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/glider_id_367_alfredomale/icon.png"
+    },
+    {
+      "id": 6,
+      "name": "Kenobi, Surrounded",
+      "description": "The world is waiting. Make your move.",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/lsid_440_noble/icon.png"
+    },
+    {
+      "id": 7,
+      "name": "Brilliant Bomber Bundle",
+      "description": "Brilliant Bomber bundle including Bash Outfit, Brilliant Bomber Outfit, Razor Smash Pickaxe & Llamacorn Shield",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/6138b589-a11a-4cd9-8a42-077e12bd754e_kh2a9rgy/icon.png"
+    },
+    {
+      "id": 8,
+      "name": "TBD",
+      "description": "TBD",
+      "icon": "https://dropin-bucket.mativecdn.com/cosmetics/br/cid_tbd_athena_commando_m_jonesyorange/icon.png"
+    }
+  ]
+}
